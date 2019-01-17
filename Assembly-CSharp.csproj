@@ -62,6 +62,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\bulcontorl.cs" />
+    <Compile Include="Assets\downsidef.cs" />
+    <Compile Include="Assets\enemyc.cs" />
+    <Compile Include="Assets\Gamef.cs" />
     <Compile Include="Assets\placontrol.cs" />
     <Compile Include="Assets\topsodef.cs" />
     <Reference Include="UnityEditor.StandardEvents">
